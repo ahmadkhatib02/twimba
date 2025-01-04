@@ -65,6 +65,10 @@ textarea{
     border-radius: 10px;
 }
 
+.self-reply::placeholder{
+    font-size: 10px;
+}
+
 button{
     background-color: #1DA1F2;
     border: none;
